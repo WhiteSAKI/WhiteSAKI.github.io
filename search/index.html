@@ -2,7 +2,7 @@
   <head>
     <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>WhiteSAKI</title>
+<title>搜索结果 | WhiteSAKI</title>
 <meta name="description" content="温故而知新" />
 <link rel="shortcut icon" href="https://whitesaki.github.io/Design//favicon.ico">
 <link rel="stylesheet" href="https://whitesaki.github.io/Design//styles/main.css">
@@ -14,7 +14,12 @@
 <script src="https://whitesaki.github.io/Design//media/js/view-image.min.js"></script>
 <script src="https://whitesaki.github.io/Design//media/js/jquery.magnific-popup.min.js"></script>
 <script src="https://whitesaki.github.io/Design//media/js/functions.js"></script>
-  </head>
+    <script src="/media/gridea-search/fuse.js"></script>
+    <script src="/media/gridea-search/ejs.min.js"></script>
+    <script src="/media/gridea-search/gridea-search.js"></script>
+    <script src="/media/gridea-search/result-template.ejs" type="text/ejs"></script>
+</head>
+
   <body>
     <!-- start: #wrapper -->
     <div class="wrapper">
@@ -33,7 +38,7 @@
 
             <nav class="main-nav grid-container grid-parent">
               <ul id="menu-header" class="menu gradient-effect">
-                <li class="current-menu-item"><a href="https://whitesaki.github.io/Design/" class="menu">首页</a></li>
+                <li class=""><a href="https://whitesaki.github.io/Design/" class="menu">首页</a></li>
                 
                   <li class="" >
                     <a href="/archives" class="menu">
@@ -79,52 +84,18 @@
         </div>
       </div>
 
-      <main id="home" class="main">
+      <main id="home" class="main fullcover no-sidebar content">
         <div class="grid-container module-wrapper enable-masonry aos-init aos-animate" data-aos="fade-up">
-        <div class="row">
-          <div class="content-wrapper grid-posts content">
-                
-            <!-- start: .articles -->
-            
-              
-              
-                <div id="single" class="fullcover" style="">
-                   <div class="featured-image cover" style="background-image: url('https://whitesaki.github.io/Design//post-images/zhe-shi-yi-tiao-ce-shi-wen-zhang.jpg');">
-                    <div class="meta top"> 
-                      <time class="meta-info" style="float:left;" datetime="2020-03-21"><i class="fa fa-calendar"></i><span class="lately">6 小时前</span></time>
-                      
-                      <a href="https://whitesaki.github.io/Design/post/zhe-shi-yi-tiao-ce-shi-wen-zhang/#comments" class="comments meta-info" title="">
-                        <i class="fa fa-comment remixicon"></i><span class="comment-count valine-comment-count" data-xid="/zhe-shi-yi-tiao-ce-shi-wen-zhang/"> </span>
-                      </a>
-                      <span id="/zhe-shi-yi-tiao-ce-shi-wen-zhang/" class="leancloud_visitors views-counter meta-info" title=""><i class="fa fa-leancloud remixicon"></i><span class="leancloud-visitors-count"></span></span>
-                      
-                    </div>
-                    <div class="info">
-                      <div class="tags ">
-                        <a href="https://whitesaki.github.io/Design/post/zhe-shi-yi-tiao-ce-shi-wen-zhang/" class="ctag ctag-1">置顶</a>
-                      </div>
-                      <h1 class="title main-title ularge white bold gradient-effect"><a href="https://whitesaki.github.io/Design/post/zhe-shi-yi-tiao-ce-shi-wen-zhang/" style="color:#fff;">这是一条测试文章</a></h1>
-                    </div>
-                  </div>
-                </div>
-                <div class="articles columns-3">
-              
-              
-              <div class="clear"></div>
-              <div class="separator last hide-on-tablet hide-on-mobile"></div>
+        <div class="epcl-page-wrapper">
+          <div class="left-content grid-70 np-mobile widget_epcl_related_articles">
+          <div class="main-article post">
+            <div id="gridea-search-result">
+              <h2 class="searching">搜索中......</h2>
+              <h2 class="no-result" style="display:none">未搜索到相关文章</h2>
             </div>
-            <!-- end: .articles -->
-            
-                        <div class="epcl-pagination section">
-              <div class="nav">
-                
-                
-              </div>
-            </div>
-
-            
           </div>
           </div>
+        </div>
         </div>
       </main>
 
