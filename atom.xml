@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://whitesaki.github.io/Design/</id>
+    <id>https://whitesaki.github.io</id>
     <title>WhiteSAKI</title>
-    <updated>2020-03-21T20:25:50.973Z</updated>
+    <updated>2020-03-21T20:29:23.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://whitesaki.github.io/Design/"/>
-    <link rel="self" href="https://whitesaki.github.io/Design/atom.xml"/>
+    <link rel="alternate" href="https://whitesaki.github.io"/>
+    <link rel="self" href="https://whitesaki.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://whitesaki.github.io/Design/images/avatar.png</logo>
-    <icon>https://whitesaki.github.io/Design/favicon.ico</icon>
+    <logo>https://whitesaki.github.io/images/avatar.png</logo>
+    <icon>https://whitesaki.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, WhiteSAKI</rights>
     <entry>
         <title type="html"><![CDATA[这是一条测试文章]]></title>
-        <id>https://whitesaki.github.io/Design/post/zhe-shi-yi-tiao-ce-shi-wen-zhang/</id>
-        <link href="https://whitesaki.github.io/Design/post/zhe-shi-yi-tiao-ce-shi-wen-zhang/">
+        <id>https://whitesaki.github.io/post/zhe-shi-yi-tiao-ce-shi-wen-zhang/</id>
+        <link href="https://whitesaki.github.io/post/zhe-shi-yi-tiao-ce-shi-wen-zhang/">
         </link>
         <updated>2020-03-21T14:27:17.000Z</updated>
         <content type="html"><![CDATA[<p>Over</p>
