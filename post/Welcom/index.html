@@ -3,7 +3,7 @@
     <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>网站使用手册 | WhiteSAKI | Design</title>
-<meta name="description" content="Design is my life." />
+<meta name="description" content="Life is design." />
 <link rel="shortcut icon" href="https://whitesaki.github.io/favicon.ico">
 <link rel="stylesheet" href="https://whitesaki.github.io/styles/main.css">
 
@@ -72,7 +72,7 @@
       <div class="hide-on-mobile hide-on-tablet hide-on-desktop">
         <div id="search-lightbox" class="grid-container grid-small grid-parent mfp-hide">
           <div class="search-wrapper section">
-            <form id="gridea-search-form" data-update="1584953866765" action="/search/index.html" class="search-form" _lpchecked="1">
+            <form id="gridea-search-form" data-update="1584955547155" action="/search/index.html" class="search-form" _lpchecked="1">
               <input type="text" name="q" id="s" value="" class="search-field" placeholder="搜点啥..." aria-label="搜点啥..." required="">
               <button type="submit" class="submit" aria-label="Submit">
                 <i class="fa fa-search-line"></i>
@@ -130,9 +130,26 @@
               
             
               <div id="comments" class="bg-white hosted ">
-                <p>请到客户端“主题--自定义配置--valine”中填入ID和KEY</p>
+                <div class="clear"></div>
+<script>
+jQuery(document).ready(function($){
+    $('.vemoji-btn').text('😀');
+    $("#comments").on('click', 'span.vat',function(){
+        $(this).parent('div.vmeta').next("div.vcontent").after($("div.vwrap"));
+        $('textarea#veditor').focus();
+    })
+    if(window.location.hash){
+        var checkExist = setInterval(function() {
+            if ($(window.location.hash).length) {
+                $('html, body').animate({scrollTop: $(window.location.hash).offset().top-200}, 600);
+                clearInterval(checkExist);
+            }
+        }, 100);
+    }
+})
+</script>
+
               </div>
-              <div class="clear"></div>
             
 
             </div>
@@ -200,7 +217,7 @@
                   </div>
                   <div class="info">
                     <h4 class="title small author-name gradient-effect no-margin"><a href="">WhiteSAKI | Design</a></h4>
-                    <p class="founder">Design is my life.</p>
+                    <p class="founder">Life is design.</p>
                     <div class="social">
                       
                         
@@ -242,6 +259,19 @@
     <div class="clear"></div>
 
         
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/leancloud-storage/dist/av-min.js"></script>
+<script type="text/javascript" src="https://cdn.staticfile.org/valine/1.3.10/Valine.Pure.min.js"></script>
+<script>
+    new Valine({
+        el: '#comments',
+        appId: 'e7m2iP0eGEVHTT0G7I1nHlJq-gzGzoHsz' ,
+        appKey: 'DwlruPvHMdJVa6wXkKagA0ts',
+        pageSize: 30,
+        placeholder: '既然来了，那就留个痕迹吧~',
+        visitor: false // 阅读量统计
+    })
+</script>
+    
 
       
     <script src="https://whitesaki.github.io/media/js/functions-post.js"></script>
