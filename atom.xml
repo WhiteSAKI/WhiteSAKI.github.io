@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://whitesaki.github.io</id>
     <title>WhiteSAKI | Design</title>
-    <updated>2020-04-15T03:53:17.664Z</updated>
+    <updated>2020-04-15T08:54:25.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://whitesaki.github.io"/>
     <link rel="self" href="https://whitesaki.github.io/atom.xml"/>
@@ -10,6 +10,30 @@
     <logo>https://whitesaki.github.io/images/avatar.png</logo>
     <icon>https://whitesaki.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, WhiteSAKI | Design</rights>
+    <entry>
+        <title type="html"><![CDATA[Autodesk Maya 下载地址]]></title>
+        <id>https://whitesaki.github.io/post/maya-down/</id>
+        <link href="https://whitesaki.github.io/post/maya-down/">
+        </link>
+        <updated>2020-04-15T08:43:44.000Z</updated>
+        <content type="html"><![CDATA[<p>❗ 此下载地址转自【溜溜自学网：<a href="https://zixue.3d66.com/">https://zixue.3d66.com/</a>】，仅供大家学习交流使用，不可用于商业用途。#<strong>侵权即删</strong>#</p>
+<p>##<strong>Autodesk Maya 2020:</strong><br>
+【溜溜自学网】:<a href="https://zixue.3d66.com/softhtml/showsoft_4371.html">https://zixue.3d66.com/softhtml/showsoft_4371.html</a><br>
+【百度云】<a href="https://pan.baidu.com/s/17BAE0URfZ5W_LSTGNAKm0A">https://pan.baidu.com/s/17BAE0URfZ5W_LSTGNAKm0A</a>    提取码：d1f4</p>
+<p>##<strong>Autodesk Maya2019:</strong><br>
+【溜溜自学网】:<a href="https://zixue.3d66.com/softhtml/showsoft_1257.html">https://zixue.3d66.com/softhtml/showsoft_1257.html</a><br>
+【百度云】:<a href="https://pan.baidu.com/s/17YDiSj17NLP6BFCWifMMYQ">https://pan.baidu.com/s/17YDiSj17NLP6BFCWifMMYQ</a></p>
+<p>##<strong>Autodesk Maya2018:</strong><br>
+【溜溜自学网】:<a href="https://zixue.3d66.com/softhtml/showsoft_307.html">https://zixue.3d66.com/softhtml/showsoft_307.html</a><br>
+【百度云】:<a href="https://pan.baidu.com/s/1ZgmqUkD9wV_PXD8lQB231g">https://pan.baidu.com/s/1ZgmqUkD9wV_PXD8lQB231g</a></p>
+<p>##<strong>Autodesk Maya2017:</strong><br>
+【溜溜自学网】:<a href="https://zixue.3d66.com/softhtml/showsoft_306.html">https://zixue.3d66.com/softhtml/showsoft_306.html</a><br>
+【百度云】:<a href="https://pan.baidu.com/s/12UbYNOk0Rpy3zgGPQLizYA">https://pan.baidu.com/s/12UbYNOk0Rpy3zgGPQLizYA</a></p>
+<p>##<strong>Autodesk Maya2016:</strong><br>
+【溜溜自学网】:<a href="https://zixue.3d66.com/softhtml/showsoft_305.html">https://zixue.3d66.com/softhtml/showsoft_305.html</a><br>
+【百度云】:<a href="https://zixue.3d66.com/softhtml/downsoft_305.html">https://zixue.3d66.com/softhtml/downsoft_305.html</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[V-Ray for Maya 下载地址]]></title>
         <id>https://whitesaki.github.io/post/vray-formaya-down/</id>
@@ -47,7 +71,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[💡 Photoshop 下载地址]]></title>
+        <title type="html"><![CDATA[Photoshop 下载地址]]></title>
         <id>https://whitesaki.github.io/post/phtoshop-down/</id>
         <link href="https://whitesaki.github.io/post/phtoshop-down/">
         </link>
