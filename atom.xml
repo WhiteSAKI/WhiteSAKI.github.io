@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://whitesaki.github.io</id>
     <title>WhiteSAKI | Design</title>
-    <updated>2020-04-15T12:39:44.597Z</updated>
+    <updated>2020-04-21T14:51:05.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://whitesaki.github.io"/>
     <link rel="self" href="https://whitesaki.github.io/atom.xml"/>
@@ -173,15 +173,24 @@
 <p><strong>Adobe全家桶</strong> 👇</p>
 <ul>
 <li><a href="http://design.whitesaki.com/post/phtoshop-down/">Photoshop</a></li>
-<li>Premiere Pro</li>
+<li><a href="http://design.whitesaki.com/post/premiere-down/">Premiere Pro</a></li>
 <li>After Effects（搭建中....)</li>
 <li>illustrator（搭建中....)</li>
 </ul>
 <p><strong>Autodesk系列 👇（搭建中....)</strong></p>
 <ul>
-<li>Maya（搭建中....)</li>
-<li>3dmax（搭建中....)</li>
-<li>Sketch Up（搭建中....)</li>
+<li>
+<p><a href="http://design.whitesaki.com/post/maya-down/">Maya</a></p>
+</li>
+<li>
+<p><a href="http://design.whitesaki.com/post/3dsmax-down/">3dmax</a></p>
+</li>
+<li>
+<p>Sketch Up（搭建中....)</p>
+</li>
+<li>
+<p><a href="http://design.whitesaki.com/post/zbrush-down/">ZBrush</a></p>
+</li>
 </ul>
 <h3 id="优质设计作品分享板块搭建中">🎨优质设计作品分享板块（搭建中....)</h3>
 <h3 id="实用软件分享搭建中">📐实用软件分享（搭建中....)</h3>
