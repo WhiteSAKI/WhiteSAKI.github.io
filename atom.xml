@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://whitesaki.github.io</id>
     <title>WhiteSAKI | Design</title>
-    <updated>2020-05-12T09:11:08.411Z</updated>
+    <updated>2020-05-12T09:39:59.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://whitesaki.github.io"/>
     <link rel="self" href="https://whitesaki.github.io/atom.xml"/>
@@ -10,6 +10,30 @@
     <logo>https://whitesaki.github.io/images/avatar.png</logo>
     <icon>https://whitesaki.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, WhiteSAKI | Design</rights>
+    <entry>
+        <title type="html"><![CDATA[Auto CAD 下载地址]]></title>
+        <id>https://whitesaki.github.io/post/cad-down/</id>
+        <link href="https://whitesaki.github.io/post/cad-down/">
+        </link>
+        <updated>2020-05-12T09:20:17.000Z</updated>
+        <content type="html"><![CDATA[<p>❗ 此下载地址转自【羽兔网：<a href="https://www.yutu.cn/">https://www.yutu.cn/</a>】，仅供大家学习交流使用，不可用于商业用途。#<strong>侵权即删</strong>#</p>
+<p>##<strong>Auto CAD2020</strong><br>
+【羽兔网】:<a href="https://www.yutu.cn/softhtml/showsoft_1342.html">https://www.yutu.cn/softhtml/showsoft_1342.html</a><br>
+【百度云】:<a href="https://pan.baidu.com/s/1IJAmVauxQHp5VoSw6EdnTQ">https://pan.baidu.com/s/1IJAmVauxQHp5VoSw6EdnTQ</a>提取码：oivz</p>
+<p>##<strong>Auto CAD2019</strong><br>
+【羽兔网】:<a href="https://www.yutu.cn/softhtml/showsoft_789.html">https://www.yutu.cn/softhtml/showsoft_789.html</a><br>
+【百度云】:<a href="https://pan.baidu.com/s/13y3LdwOW8JK5BppWM2bn9Q">https://pan.baidu.com/s/13y3LdwOW8JK5BppWM2bn9Q</a></p>
+<p>##<strong>Auto CAD2018</strong><br>
+【羽兔网】:<a href="https://www.yutu.cn/softhtml/showsoft_557.html">https://www.yutu.cn/softhtml/showsoft_557.html</a><br>
+【百度云】:<a href="https://pan.baidu.com/s/19F77hspMTAAxDic_DrV-6w">https://pan.baidu.com/s/19F77hspMTAAxDic_DrV-6w</a></p>
+<p>##<strong>Auto CAD2017</strong><br>
+【羽兔网】:<a href="https://www.yutu.cn/softhtml/showsoft_493.html">https://www.yutu.cn/softhtml/showsoft_493.html</a><br>
+【百度云】:<a href="https://pan.baidu.com/s/1cKoNPMPpSjqgLwyDBuHx8A">https://pan.baidu.com/s/1cKoNPMPpSjqgLwyDBuHx8A</a></p>
+<p>##<strong>Auto CAD2016</strong><br>
+【羽兔网】:<a href="https://www.yutu.cn/softhtml/showsoft_491.html">https://www.yutu.cn/softhtml/showsoft_491.html</a><br>
+【百度云】:<a href="https://pan.baidu.com/s/1oQclOLWIk9YTuB5ENGTQFw">https://pan.baidu.com/s/1oQclOLWIk9YTuB5ENGTQFw</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Premiere Pro CC 下载地址]]></title>
         <id>https://whitesaki.github.io/post/premiere-down/</id>
@@ -152,7 +176,7 @@
 <li><a href="#%E7%BD%91%E7%AB%99%E7%89%88%E5%9D%97%E4%BB%8B%E7%BB%8D-bate">📦 网站版块介绍 Bate</a>
 <ul>
 <li><a href="#%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90%E7%89%88%E5%9D%97">💽 软件资源版块</a></li>
-<li><a href="#%E4%BC%98%E8%B4%A8%E8%AE%BE%E8%AE%A1%E4%BD%9C%E5%93%81%E5%88%86%E4%BA%AB%E6%9D%BF%E5%9D%97%E6%90%AD%E5%BB%BA%E4%B8%AD">🎨优质设计作品分享板块（搭建中....)</a></li>
+<li><a href="#%E4%BC%98%E8%B4%A8%E8%AE%BE%E8%AE%A1%E4%BD%9C%E5%93%81%E5%88%86%E4%BA%AB%E6%9D%BF%E5%9D%97">🎨优质设计作品分享板块</a></li>
 <li><a href="#%E5%AE%9E%E7%94%A8%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB%E6%90%AD%E5%BB%BA%E4%B8%AD">📐实用软件分享（搭建中....)</a></li>
 </ul>
 </li>
@@ -177,13 +201,17 @@
 <li>After Effects（搭建中....)</li>
 <li>illustrator（搭建中....)</li>
 </ul>
-<p><strong>Autodesk系列 👇（搭建中....)</strong></p>
+<p><strong>Autodesk系列 👇</strong></p>
 <ul>
 <li><a href="http://design.whitesaki.com/post/maya-down/">Maya</a></li>
 <li><a href="http://design.whitesaki.com/post/3dsmax-down/">3dmax</a></li>
+<li><a href="http://design.whitesaki.com/post/cad-down/">CAD</a></li>
 <li>Sketch Up（搭建中....)</li>
 </ul>
-<h3 id="优质设计作品分享板块搭建中">🎨优质设计作品分享板块（搭建中....)</h3>
+<h3 id="优质设计作品分享板块">🎨优质设计作品分享板块</h3>
+<ul>
+<li><a href="http://design.whitesaki.com/post/top-design/">💡 点击进入导航页</a></li>
+</ul>
 <h3 id="实用软件分享搭建中">📐实用软件分享（搭建中....)</h3>
 <h2 id="更多板块会陆续开放敬请期待~">😊 更多板块会陆续开放，敬请期待~</h2>
 ]]></content>
